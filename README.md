@@ -22,5 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+link doesnt work in github for some reason- heres the link http://g.recordit.co/Bm9eqmaodj.gif
 <img src='http://g.recordit.co/Bm9eqmaodj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
